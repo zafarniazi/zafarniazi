@@ -8,8 +8,8 @@
 ```javascript
 const zafar = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, php,reactnative ],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  code: [Javascript ],
+  tools: [React, Redux, Node, Styled-Components, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
 ```
