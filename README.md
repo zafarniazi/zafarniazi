@@ -5,7 +5,7 @@
 
 ---
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=naeemhhassan&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![]
 
 I'm a graduate in Computer Science :mortar_board: from Comsats Univerity Lahore, PK 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains :bulb:. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. Apart from that I also love to guide and mentor newbies. I'm currently into Web Development :spider_web: and working on my Data Structures and Algorithms :nerd_face:.
 
